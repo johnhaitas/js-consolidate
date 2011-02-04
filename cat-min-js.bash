@@ -10,4 +10,4 @@ cat ${*} > concatenated-scripts.js
 # minimize concatenated scripts
 ./jsmin < concatenated-scripts.js > consolidated.js
 
-#rm concatenated-scripts.js
+rm concatenated-scripts.js
