@@ -1,0 +1,14 @@
+This utility concatenates and minimizes multiple javascript files
+
+to compile jsmin.c
+$ make
+
+example usage:
+$ ./cat-min-js.bash jquery-1.5.min.js jquery.corner.js jquery.lightbox-0.5.pack.js
+
+
+
+
+Credit:
+	Douglas Crockford - jsmin
+	
